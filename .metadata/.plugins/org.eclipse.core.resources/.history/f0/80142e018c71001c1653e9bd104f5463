@@ -1,0 +1,8 @@
+package ma.education.tp6.annotations;
+
+public @interface Programmer {
+
+	abstract int id();
+	String name();
+	
+}

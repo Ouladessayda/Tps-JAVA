@@ -1,0 +1,10 @@
+package cigma.pfe.controllers;
+
+public class TEST {
+	
+	public TEST(){
+	
+	System.out.println("Je suis dans la classe test");
+
+	}
+}

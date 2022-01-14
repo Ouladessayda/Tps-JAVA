@@ -1,0 +1,8 @@
+package cigma.pfe.models;
+
+public class Client {
+	
+	 public long Id;
+	
+
+}

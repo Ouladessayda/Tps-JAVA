@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.annotation.ElementType"/>
+    <fullyQualifiedTypeName name="cigma.pfe.repositories.ClientRepository"/>
+    <fullyQualifiedTypeName name="cigma.pfe.repositories.ClientRepositoryImpl"/>
+    <fullyQualifiedTypeName name="cigma.pfe.services.ClientService"/>
+    <fullyQualifiedTypeName name="cigma.pfe.services.ClientServiceImpl"/>
+    <fullyQualifiedTypeName name="cigma.pfe.controllers.ClientController"/>
+    <fullyQualifiedTypeName name="cigma.pfe.models.Client"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,5 @@
+package cigma.pfe.services;
+
+public interface ClientService {
+
+}

@@ -1,0 +1,21 @@
+package cigma.pfe.models;
+
+public class Client {
+	
+	 public long Id;
+	 public String Name;
+	 
+	 
+	 public Client(long Id , String Name) {
+		 
+		 this.Id=Id;
+		 this.Name=Name;
+	 }
+	 
+	 public Client() {
+		 
+		 
+	 }
+	
+
+}

@@ -1,0 +1,5 @@
+package ma.cigma.pfe.service;
+
+public class IClientServiceImpl implements IClientService {
+
+}
