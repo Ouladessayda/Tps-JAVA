@@ -1252,3 +1252,7 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.lo
 2022-01-14 20:27:08,786 [Worker-124: Launching ApplicationRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
 2022-01-14 20:27:08,788 [Worker-124: Launching ApplicationRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-01-14 20:27:08,789 [Worker-124: Launching ApplicationRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pcmaroc\Desktop\Mes TPs JAVA\JEE.TP8\src\test\resources
+2022-01-14 20:37:43,749 [Worker-130: Launching ApplicationRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-14 20:37:43,751 [Worker-130: Launching ApplicationRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-01-14 20:37:43,755 [Worker-130: Launching ApplicationRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-14 20:37:43,755 [Worker-130: Launching ApplicationRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pcmaroc\Desktop\Mes TPs JAVA\JEE.TP8\src\test\resources
