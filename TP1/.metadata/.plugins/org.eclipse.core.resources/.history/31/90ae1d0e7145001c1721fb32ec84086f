@@ -1,0 +1,14 @@
+package ma.education.tp1.introduction;
+
+public class Test {
+
+	public static void main(String[] args) {
+		
+Salle O2;
+Salle O1 = new Salle();
+Salle O2 = new Salle(15,"Salle Informatique”);
+
+
+	}
+
+}

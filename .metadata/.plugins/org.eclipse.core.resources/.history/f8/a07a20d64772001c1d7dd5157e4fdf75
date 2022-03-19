@@ -1,9 +1,0 @@
-package ma.education.tp6.annotations;
-
-import ma.education.tp6.annotations.Programmer;
-
-@Programmer (id=1,name="Omar Ouladessayda")
-public class Calculatrice {
-	
-
-}

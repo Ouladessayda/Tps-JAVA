@@ -1,0 +1,33 @@
+package ma.education.tp1.introduction;
+
+public class Salle {
+	
+	 Long Id;
+	 String Nom;
+	 
+	 
+ Salle()
+{
+		
+}
+ 
+ Salle( String nom) 
+{
+     this.Nom = nom;
+}
+
+ Salle(Long id, String nom) 
+{
+	 this.Id = id;
+	 this.Nom = nom;
+}
+
+	 
+
+
+
+	 
+	
+	
+
+}

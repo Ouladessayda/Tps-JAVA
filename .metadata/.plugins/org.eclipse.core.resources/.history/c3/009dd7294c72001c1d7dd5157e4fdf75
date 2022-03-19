@@ -1,5 +1,0 @@
-package cigma.pfe.repositories;
-
-public interface ClientRepository {
-
-}

@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\pcmaroc\Desktop\Mes TPs JAVA\JEE.TP6"/>
+			<item value="C:\Users\pcmaroc\Desktop\Mes TPs JAVA\JEE.TP7"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -25,13 +27,20 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="TP6.TP7.Ouladessayda.omar"/>
+			<item value="Omar.Ouladessayda.TP8.JEE.TP8"/>
+			<item value="Omar.Ouladessayda.TP7"/>
+			<item value="Omar.Ouladessayda.TP7.JEE.TP7"/>
+			<item value="Omar.Ouladessayda.TP6.JEE.TP6"/>
 		</list>
 		<list key="groupId">
-			<item value="TP6.TP7"/>
+			<item value="Omar.Ouladessayda.TP8"/>
+			<item value="Omar.Ouladessayda.TP7"/>
+			<item value="Omar.Ouladessayda.TP6"/>
 		</list>
 		<list key="artifactId">
-			<item value="Ouladessayda.omar"/>
+			<item value="JEE.TP8"/>
+			<item value="JEE.TP7"/>
+			<item value="JEE.TP6"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
